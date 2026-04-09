@@ -238,8 +238,6 @@ If this made you go “damn 🔥”
 
 ---
 
-## 🌟 Final vibe
-
 This isn’t just code.
 This is **design + data + intelligence combined**.
 
